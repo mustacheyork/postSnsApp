@@ -1,6 +1,6 @@
 # postSnsApp
 「Swiftビギナーズ勉強会 第６回@Co-Edo」の発表したサンプルです。  
-※実際の投稿は、ユーザー自身がTwitterまたは、Facebookアカウントの設定をしていることが必要です。
+※実際の投稿は、ユーザー自身がTwitterまたは、Facebookアカウントの設定をしていることが必要です。  
 https://swift-beginners.doorkeeper.jp/events/21881
 
 Social.frameworkを利用して、TwitterやFacebookに投稿するアプリです。
